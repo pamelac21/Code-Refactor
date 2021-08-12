@@ -6,4 +6,4 @@ Deployed Application:
 [Code-Refactor](https://pamelac21.github.io/Code-Refactor/)
 
 Screenshot of Application:
-[Code-Refactor](
+[Code-Refactor](https://github.com/pamelac21/Code-Refactor/blob/master/assets/images/screenshot.pdf)
