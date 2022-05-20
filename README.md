@@ -20,7 +20,7 @@ Deployed Application:
 [Code-Refactor](https://pamelac21.github.io/Code-Refactor/)
 
 Screenshot of Application:
-<img src="https://github.com/pamelac21/Code-Refactor/blob/master/assets/images/screenshot.pdf" height="600">
+<img src="https://github.com/pamelac21/Code-Refactor/blob/f77a1260ee65b2a821e4ccea130ed935b6cbd597/assets/images/screenshot.pdf" >
 
 
 ### Built With :toolbox: 
