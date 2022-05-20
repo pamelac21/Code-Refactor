@@ -1,4 +1,4 @@
-# Code-Refactor
+# Horiseon Code-Refactor
 
 ## Description
 Refactoring a marketing agency's website code  to meet accessibility standards and better SEO practices.
@@ -20,7 +20,7 @@ Deployed Application:
 [Code-Refactor](https://pamelac21.github.io/Code-Refactor/)
 
 Screenshot of Application:
-<img src="https://github.com/pamelac21/Code-Refactor/blob/f77a1260ee65b2a821e4ccea130ed935b6cbd597/assets/images/screenshot.pdf" >
+<img src="https://github.com/pamelac21/Horiseon-Code-Refactor/blob/88681b275b89d4f7745e4d083891ad89c82cdccf/assets/images/screenshot.pdf" >
 
 
 ### Built With :toolbox: 
