@@ -17,7 +17,7 @@ Added relative path for css document. Fixed internal link for seo by adding id t
 
 
 ## Deployed Application:
-[Code-Refactor](https://pamelac21.github.io/Code-Refactor/)
+https://pamelac21.github.io/Code-Refactor/
 
 <img src="https://user-images.githubusercontent.com/87335354/169622360-31b33d88-dff8-412d-ba1c-be56b8bedc3e.jpg" height="700" >
 
